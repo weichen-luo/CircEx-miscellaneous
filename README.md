@@ -3,4 +3,6 @@ WSL
 
 Zsh
 
+VS Code plugins / remote dev
+
 to be continued

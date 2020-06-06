@@ -72,4 +72,4 @@ Ref: https://code.visualstudio.com/docs/remote/ssh#_getting-started
 - GitLens (better GitHub plugins)
 -
 
-> > > > > Submit a PR if you have any update to this guide.
+Submit a PR if you have any update to this guide.
